@@ -13,4 +13,4 @@ Using NFL injury and performance data, this project applies statistical modeling
 
 # For additional Analysis: Investigate the 2020 season 
 Homework Question:
-Using the existing NFL injury dataset, create a modified regression model that introduces a binary indicator for the 2020 NFL season. Interpret the coefficient for the indicator. Does the model suggest that team Net EPA changes were different during the 2020 season compared to other seasons? Choose a visual of your choice and do a side-by-side comparison of the seasons (2020 and 2019, 2021–2024). Are there any trends that stick out?
+Using the existing NFL injury dataset, create a modified regression model that introduces a binary indicator for the 2020 NFL season. Interpret the output. Does the model suggest that team Net EPA changes were different during the 2020 season compared to other seasons? Choose a visual of your choice and do a side-by-side comparison of the seasons (2020 and 2019, 2021–2024). Are there any trends that stick out?
